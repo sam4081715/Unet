@@ -88,6 +88,8 @@ val_num = 0
 
 train_num = len(tra_img_name_list)
 
+#------- data loader --------
+
 salobj_dataset = SalObjDataset(
     img_name_list=tra_img_name_list,
     lbl_name_list=tra_lbl_name_list,
