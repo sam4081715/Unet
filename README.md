@@ -15,7 +15,7 @@ In this code, we demonstrate how U^2-net segment the target from image with smal
 
 ## Features
 
-## Output of PXGen using Mnist dataset as Anchor set
+## Output of U^2-net using small training set
 
 ## Installation
 
