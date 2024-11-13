@@ -16,6 +16,10 @@ In this code, we demonstrate how U^2-net segment the target from image with smal
 ## Output of U^2-net using small training set
 use 18 image to train model.
 
-1. test image with human amd segment result
-![image]([https://github.com/user-attachments/assets/fd34f8b7-a7fc-4230-88d0-2e15ac764215](https://github.com/sam4081715/Unet/blob/main/test_data/test_human_images/19035828_web1__12294096_web1_180615-PNR-newmayorchallenge.jpg))
+1. test image one amd segment result
+![19035828_web1__12294096_web1_180615-PNR-newmayorchallenge](https://github.com/user-attachments/assets/dfd4f2e1-1557-45ef-a617-e16ceeefc2e2)
 ![human result](https://github.com/user-attachments/assets/fae3e46e-1013-4048-b46a-572bd12055e5)
+
+2. test image two amd segment result
+![Athlete-Intake](https://github.com/user-attachments/assets/bc478602-c28f-4f58-a8b9-acc609b123ee)
+![下載](https://github.com/user-attachments/assets/bb36cfdb-7869-4d92-b38f-a741c6849689)
