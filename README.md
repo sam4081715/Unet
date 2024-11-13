@@ -25,4 +25,4 @@ use 18 image to train model.
 ![下載](https://github.com/user-attachments/assets/bb36cfdb-7869-4d92-b38f-a741c6849689)
 
 ## Reference
-[U<sup>2</sup>-Net]<https://github.com/xuebinqin/U-2-Net>
+[U<sup>2</sup>-Net](https://github.com/xuebinqin/U-2-Net)
