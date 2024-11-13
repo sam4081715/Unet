@@ -1,4 +1,4 @@
-# U^2-net : a Salient Object Detection(SOD) Model, image segment with small amount training set.
+# U^2-net : a Salient Object Detection(SOD) Model, image segment with small training set.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 
