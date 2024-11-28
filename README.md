@@ -4,25 +4,29 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Introduction](#Introduction)
+- [Training](#Training)
+- [Output](#Output)
+- [Reference](#Reference)
 
 ## Introduction
-U<sup>2</sup>-Net is a salient object detection AI method, design to image segmentation. It provides a segment method to get the target from image.
-In this code, we demonstrate how U^2-net segment the target from image with small amount training set.
+U<sup>2</sup>-Net is a salient object detection AI method designed for image segmentation. It provides a segmentation method to extract the target from an image. In this code, we demonstrate how U^2-Net segments the target from an image using a small training set.
 
-## Output of U^2-net using small training set
-use 18 image to train model.
+## Training
+In this experiment, we aim to use a small training set to segment images of people. A total of 18 images are used to train the model.
 
-1. test image one amd segment result
-![19035828_web1__12294096_web1_180615-PNR-newmayorchallenge](https://github.com/user-attachments/assets/dfd4f2e1-1557-45ef-a617-e16ceeefc2e2)
-![human result](https://github.com/user-attachments/assets/fae3e46e-1013-4048-b46a-572bd12055e5)
+## Output
 
-2. test image two amd segment result
-![Athlete-Intake](https://github.com/user-attachments/assets/bc478602-c28f-4f58-a8b9-acc609b123ee)
-![下載](https://github.com/user-attachments/assets/bb36cfdb-7869-4d92-b38f-a741c6849689)
+1. test image one amd segment result<br>
+
+<img src="https://github.com/user-attachments/assets/dfd4f2e1-1557-45ef-a617-e16ceeefc2e2" width = "49%" height = width>
+<img src="https://github.com/user-attachments/assets/fae3e46e-1013-4048-b46a-572bd12055e5" width = "49%" height = width>
+<br>
+2. test image two amd segment result<br>
+
+<img src="https://github.com/user-attachments/assets/bc478602-c28f-4f58-a8b9-acc609b123ee" width = "49%" height = width>
+<img src="https://github.com/user-attachments/assets/bb36cfdb-7869-4d92-b38f-a741c6849689" width = "49%" height = width>
+<br>
 
 ## Reference
-[U<sup>2</sup>-Net](https://github.com/xuebinqin/U-2-Net)
+[U<sup>2</sup>-Net: U Square Net](https://github.com/xuebinqin/U-2-Net)
